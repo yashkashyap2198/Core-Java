@@ -1,4 +1,4 @@
-package lec09Array;
+package lec10SeachingAndSorting;
 
 public class InsertionSort {
 	public static void insertionSort(int a[]) {

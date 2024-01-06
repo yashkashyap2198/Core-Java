@@ -1,4 +1,4 @@
-package lec09Array;
+package lec10SeachingAndSorting;
 
 public class BubbleSort {
 	public static void bubbleSort(int a[]) {

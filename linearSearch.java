@@ -1,4 +1,4 @@
-package lec09Array;
+package lec10SeachingAndSorting;
 import java.util.*;
 public class linearSearch {
 	public static int[] takeInput() {
@@ -30,8 +30,7 @@ public class linearSearch {
 	  int indx=printIndex(arr);
 	  System.out.println(indx);
 
-
-		//System.out.println(arr);
+		System.out.println(arr);
 
 	}
 
